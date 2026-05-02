@@ -1,0 +1,818 @@
+[{
+        "defense_level": "High-Adaptive Defense Level",
+        "mechanism": "Affiliation",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by turning to others for help or support. By affiliating with others, the individual can express him or herself, confide problems, and feel less alone or isolated with a conflict or problem. This may also result in receiving advice or concrete help from the “auxiliary ego” that improves the individual’s ability to cope. Confiding leads to an increase in the individual’s coping capacity as the other individual supplies emotional validation and support. Affiliation does not include trying to make someone else responsible for dealing with one’s own problems, nor does it imply coercing someone to help, or acting helpless to elicit help. Affiliation is not shown simply by belonging to an organization (e.g., church, social club, Alcoholics Anonymous) or by seeing a counselor or therapist. Rather it is demonstrated by the give and take around conflicts and problems that occurs in the context of belonging to the organization, or by the confiding with others.",
+        "function": "Affiliation allies the individual’s emotional attachment needs with the wish to cope effectively with internal conflict or external stressors. The ability to cope is enhanced by seeking support from others, while attachment needs are also satisfied. Others may enhance the individual’s repertoire of ego skills by help with advice, modeling, planning, judgment, role playing, practicing, etc. Usually this is accompanied by a reduction in subjective tension achieved through expressing one’s feelings and sharing one’s conflicts.",
+        "items": [{
+                "item_number": 22,
+                "text": "Whenever the subject brings a personal problem to someone for help or advice, the subject is not expecting the other to take care of it, but rather to help come up with a solution which the subject will then implement."
+            },
+            {
+                "item_number": 25,
+                "text": "The subject describes an important conflict or external stress in which affiliation played a major emotional role in coping as evident by the description of characteristics of the help received, the individuals or organization involved, and the sense that something was taken away from the experience."
+            },
+            {
+                "item_number": 44,
+                "text": "When the subject describes seeking help from others, there is a sense of having learned something from the interchange."
+            },
+            {
+                "item_number": 66,
+                "text": "When confronted with emotional conflict or stressful situations, the subject describes confiding in someone. Emotionally meaningful sharing led to enhancement of coping skills, or direct assistance beyond what the subject would have done alone."
+            },
+            {
+                "item_number": 93,
+                "text": "When dealing with an emotionally difficult situation, the subject reports that talking to others helps the subject think through how best to handle the problem."
+            }
+        ]
+    },
+    {
+        "defense_level": "High-Adaptive Defense Level",
+        "mechanism": "Altruism",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by dedication to fulfilling the needs of others, in part as a way of fulfilling his or her own needs. By using altruism, the individual receives some partial gratification either vicariously or as a response from others. The subject is usually aware to some extent that his or her own needs or feelings underlie altruistic actions. There may also be a direct reward or overt self-interested reason for the subject’s altruistic actions. To rate altruism present, there must be a clear, demonstrable, functional relationship between the individual’s feelings and the altruistic response.",
+        "function": "Altruism gratifies social and attachment needs while dealing with emotional conflict through helping others. In many cases, the conflict revolves around distress over past examples of confronting stressful situations for which one needed help that was somehow unavailable or insufficient. Altruism channels affects, such as anger, and experiences, such as powerlessness, into socially helpful responses that also enhance the individual’s sense of mastery over the past.",
+        "items": [{
+                "item_number": 11,
+                "text": "The subject helps others who are experiencing a problem they cannot adequately deal with alone. The problem appears to have a personal meaning to the subject related to similar experiences in the subject’s past (e.g., ‘It made me feel good to help someone in the same position that I once found so difficult.’)."
+            },
+            {
+                "item_number": 15,
+                "text": "The subject finds it personally rewarding to help others who are suffering."
+            },
+            {
+                "item_number": 79,
+                "text": "The subject participates in organizations or groups that help other people in direct person-to-person ways. In this context, the subject gives direct help to others, which the subject apparently finds rewarding."
+            },
+            {
+                "item_number": 104,
+                "text": "The subject reacts to a difficult or dangerous situation for someone else by interposing him or herself to protect the other person. While not reckless, the subject may put him or herself at personal physical or material risk in doing so."
+            },
+            {
+                "item_number": 132,
+                "text": "The subject helps others who are at a loss to cope with a problem or situation, possibly including standing up to authority. It is clear that the subject obtains some personal gratification or mastery from the meaning of helping, beyond any overt reward obtained."
+            }
+        ]
+    },
+    {
+        "defense_level": "High-Adaptive Defense Level",
+        "mechanism": "Anticipation",
+        "definition": "The individual mitigates emotional conflicts, or internal or external stressors, by not only considering realistic, alternative solutions and anticipating emotional reactions to future problems, but experiencing the future distress by mentally bringing the distressing ideas and affects together. This rehearsal allows the individual to prepare a better adaptive response to the anticipated conflict or stressor.",
+        "function": "Using anticipation allows the individual to mitigate the effects of future stressors or conflicts. It requires being able to tolerate the anxiety attendant to imagining how a future situation may be distressing. By affective rehearsal (e.g., ‘how will I feel when this occurs?’) and planning future responses, the subject decreases distressing aspects of the future stressor. Anticipation also increases the likelihood of positive external outcomes and more positive emotional responses.",
+        "items": [{
+                "item_number": 43,
+                "text": "Ahead of an important performance or occasion, the subject practices imagining him or herself in the situation to be both better prepared and less anxious."
+            },
+            {
+                "item_number": 46,
+                "text": "The subject describes small events in his or her life in which he or she characteristically mentions thinking about their outcomes ahead of time and emotionally preparing in some way for them."
+            },
+            {
+                "item_number": 62,
+                "text": "In confronting a new situation or an unknown task, the subject tries ahead of time to be aware of the emotional challenges and plan for whatever resources that will aid and comfort the subject in the new situation."
+            },
+            {
+                "item_number": 65,
+                "text": "The subject describes emotionally meaningful vignettes of upcoming stressful situations in which the subject fully prepared him or herself emotionally as to how to handle it."
+            },
+            {
+                "item_number": 78,
+                "text": "In dealing with interpersonal conflicts, the subject tries to imagine how others might respond in planning how to deal with them, but without obsessing or over planning."
+            }
+        ]
+    },
+    {
+        "defense_level": "High-Adaptive Defense Level",
+        "mechanism": "Humor",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by emphasizing the amusing or ironic aspects of the conflict or stressor. Humor tends to relieve the tension around conflict in a way that allows everyone to share in it, rather than being at one person’s expense, as in derisive or cutting remarks. An element of self-observation or truth is often involved.",
+        "function": "Humor allows some expression of affects and wishes that are involved with conflict or stressor. Whenever conflict or external stressors block full expression of the affects or satisfaction of wishes, humor allows some symbolic expression of them and of the source of the conflict. The frustration emanating from the conflict is transiently relieved in a way that both self and others can smile or laugh at. This is especially evident around issues of the human condition in which certain stressors are inescapable.",
+        "items": [{
+                "item_number": 18,
+                "text": "The subject makes amusing or ironic comments about embarrassing situations to diffuse them."
+            },
+            {
+                "item_number": 37,
+                "text": "The subject can make humorous remarks about him or herself or others without saying negative, hurtful, or deprecating things."
+            },
+            {
+                "item_number": 40,
+                "text": "In confronting difficult situations which the subject cannot change, the subject uses humor about the situation to mitigate the negative feelings arising."
+            },
+            {
+                "item_number": 51,
+                "text": "The subject diffuses a difficult situation with others by making a pertinent joke that centers on some important point that all can acknowledge without being at anyone’s expense, thereby fostering cooperation."
+            },
+            {
+                "item_number": 119,
+                "text": "When confronted by a situation fraught with competitive, hostile, or jealous feelings, the subject reveals something about him or herself in a self-deprecatory, ironic, or amusing way to diffuse the tension."
+            }
+        ]
+    },
+    {
+        "defense_level": "High-Adaptive Defense Level",
+        "mechanism": "Self-Assertion",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by expressing one’s feelings and thoughts directly to achieve goals. Self-assertion is not coercive or indirect and manipulative. The goal or purpose of the self-assertive behavior is usually made clear to all parties affected by it.",
+        "function": "Self-assertion deals with emotional conflict through the direct expression of one’s feelings or wishes, and thereby relieves the anxiety or distress that occurs whenever internal or external countervailing forces prevent expression. Self-assertion does not require that the individual get his or her own way to be successful as a defense or adaptive response. Rather, it is also emotionally useful because it allows the individual to function (1) without the anxiety or tension that builds whenever feelings and wishes are unexpressed and (2) without a sense of shame or guilt for not speaking up for oneself in emotionally conflictual situations. The emotional consequences are worse when self-assertion is blocked by internal prohibitions, rather than by external factors alone, such as by a domineering person in authority.",
+        "items": [{
+                "item_number": 23,
+                "text": "When pursuing something desirable, including a relationship with someone, the subject can use his or her talents and charms to attract the other, without feeling ashamed or guilty if unsuccessful."
+            },
+            {
+                "item_number": 90,
+                "text": "When the subject has a physical or emotional or practical problem, the subject takes steps to deal with his or her needs – possibly including initiating getting help – rather than ignore them or hope they will take care of themselves."
+            },
+            {
+                "item_number": 105,
+                "text": "When someone is impolite, dismissive, or derogatory toward the subject, the subject can stand up for him or herself appropriately, even if the subject cannot change the other’s attitude or command an apology."
+            },
+            {
+                "item_number": 109,
+                "text": "The subject can disagree with others and express opinions without being overly hostile, devaluing, or manipulative of others."
+            },
+            {
+                "item_number": 146,
+                "text": "When confronted with emotionally difficult situations, the subject expresses his or her thoughts, wishes, or feelings clearly and directly without inhibition or excess."
+            }
+        ]
+    },
+    {
+        "defense_level": "High-Adaptive Defense Level",
+        "mechanism": "Self-Observation",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by reflecting on his or her own thoughts, feelings, motivation, and behavior. The person can “see himself as others see him” in interpersonal situations, and as a result is better able to understand other people’s reactions to him or her. The defense is not synonymous with simply making observations or talking about oneself.",
+        "function": "This defense allows the person to make the best adaptation to the demands of external reality based on having an accurate view of one’s own affects, wishes and impulses, and behavior. While self-observation does not change one *per se*, it is a precursor for seeking better adaptations of internal states to external reality. This defense allows the individual to grow and adapt better as he or she deals with stress.",
+        "items": [{
+                "item_number": 9,
+                "text": "When talking with someone about a personally charged topic, the subject displays an accurate view of him or herself and can see how he or she appears from the other person’s point of view."
+            },
+            {
+                "item_number": 32,
+                "text": "When confronting emotionally important problems, the subject can reflect upon relevant personal experiences and explore emotional reactions. This allows the subject to adjust better to limitations and compromises, possibly leading to more fulfilling outcomes."
+            },
+            {
+                "item_number": 58,
+                "text": "In interpersonal conflicts, the subject uses an understanding of his or her reactions to facilitate understanding others’ points of view or subjective experiences. This may make the subject a better negotiator or collaborator."
+            },
+            {
+                "item_number": 77,
+                "text": "When considering an emotionally important decision, the subject explores his or her own motives and limitations to arrive at a more fulfilling decision."
+            },
+            {
+                "item_number": 91,
+                "text": "When the subject reflects on past experiences, he or she can relive distressing feelings and make connections between events and feelings and develop understanding thereby changing how the subject views the past and possibly similar situations in the present."
+            }
+        ]
+    },
+    {
+        "defense_level": "High-Adaptive Defense Level",
+        "mechanism": "Sublimation",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by channeling rather than inhibiting potentially maladaptive feelings or impulses into socially acceptable behavior. This defense is to be rated present only when a strong functional relationship can be demonstrated between the feelings and response pattern. Classic examples of the use of sublimation are sports and games used to channel angry impulses, or artistic creation that expresses conflicted feelings.",
+        "function": "Sublimation allows the expression of wishes, impulses, or affects that the subject voluntarily inhibits because of their potentially negative social repercussions. The subject channels them instead into socially acceptable expression. The original aims and objects of the impulses, wishes, and affects are often modified considerably, resulting in a creative activity or product. For example, a hostile-competitive urge may be channeled into competitive sports or work, or sexual impulses may be expressed through creative dance or art. The result of sublimation is that the original impulses, etc. are allowed some expression while the resulting activity or product may also bring some positive social approval or reward.",
+        "items": [{
+                "item_number": 14,
+                "text": "In describing any personal artistic or creative activities – such as writing, music, art, or acting – the subject appears to transform emotional conflicts or unfulfilled wishes from elsewhere in life, helping to shape the creative activity or product."
+            },
+            {
+                "item_number": 36,
+                "text": "The subject describes emotional conflictual situations in which some of the feelings or dissatisfaction are channeled into creative or artistic activities. The resulting creative products – such as a poem or painting – give the subject a sense of mastery or relief from the conflicts."
+            },
+            {
+                "item_number": 63,
+                "text": "Whenever engaging in a creative activity, the subject finds the process of creation itself satisfying, apart from any satisfaction with the final product."
+            },
+            {
+                "item_number": 97,
+                "text": "Following experiences of emotional distress or conflict, the subject engages in sports or other physical activities which are an invigorating outlet for any lingering frustrations."
+            },
+            {
+                "item_number": 100,
+                "text": "Following some strong experiences, the subject engages in his or her ordinary activities but with less effort, greater accomplishment and more pleasure than they normally would require or yield."
+            }
+        ]
+    },
+    {
+        "defense_level": "High-Adaptive Defense Level",
+        "mechanism": "Suppression",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by voluntarily avoiding thinking about disturbing problems, wishes, feelings, or experiences temporarily. This may entail putting things out of one’s mind until the right time to deal with them: it is postponing not procrastinating. Suppression may also entail avoiding thinking about something at the time because it would distract from engaging in another activity which one must do (e.g., not dwelling on tangential problems in order to deal with one pressing problem). The individual can call the suppressed material back to conscious attention readily, since it is not forgotten.",
+        "function": "Suppression keeps both the idea and affect associated with a stressor out of awareness in the service of attending to something else; however, suppressed material may be voluntarily brought back into full awareness. Distressing feelings are acknowledged but dealing with them is postponed until the subject feels more able or the timing is more appropriate. Neurotic anxiety is minimized, since the material is not repressed, although anticipatory anxiety may still be present until the stressor is dealt with.",
+        "items": [{
+                "item_number": 49,
+                "text": "When presented with an external demanding situation over which the subject has no control, the subject can accept the demand, putting negative feelings aside to deal with what must be done."
+            },
+            {
+                "item_number": 117,
+                "text": "When the subject experiences a desire that if acted upon would have bad consequences, the subject is able to decide consciously to put the desire aside and not act upon it."
+            },
+            {
+                "item_number": 128,
+                "text": "When the subject experiences a salient personal limitation or problem, rather than pretending it is not a problem, the subject acknowledges and accepts it, which allows the subject to avoid exacerbating problems. For example, acknowledging an addiction and accepting that one must avoid using the desired substance."
+            },
+            {
+                "item_number": 131,
+                "text": "When attending to something emotionally important, if interrupted by something more urgent, the subject attends to the interruption as needed, but later returns and finishes dealing with what had to be postponed."
+            },
+            {
+                "item_number": 150,
+                "text": "When presented with an emotionally charged situation, the subject can postpone dealing with his or her feelings to attend to the things that need to be done immediately. The feelings don’t get in the way or distract the subject, because the subject is able to give them adequate attention later."
+            }
+        ]
+    },
+    {
+        "defense_level": "Obsessional Defense Level",
+        "mechanism": "Isolation of Affects",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by being unable to experience simultaneously the cognitive and affective components of an experience, because the affect is kept from consciousness. In the defense of isolation, the subject loses touch with the feelings associated with a given idea (e.g., a traumatic event) while remaining aware of the cognitive elements of it (e.g., descriptive details). Only the affect is lost or detached while the idea is conscious. It is the converse of repression, where the affect is retained but the idea is detached and unrecognized. Sometimes the affect can be detached temporarily from its associated idea. The affect is felt later without association to the original experience and idea. Instead, there is an intervening neutral interval between cognizance of the idea and experience of the associated affects.",
+        "function": "Individuals who feel threatened by or anxious over the conscious experience of feelings can still deal with the related ideas and events comfortably when their associated affects are separated and kept out of awareness. Very often the isolated affects are associated with anxiety, shame, or guilt that would emerge if experienced directly. The tradeoff for avoiding the associated anxiety, shame, or guilt is that the individual misses out on experiencing the feelings in a way that adds evaluative information and which may be useful in making choices.",
+        "items": [{
+                "item_number": 28,
+                "text": "When telling an emotionally meaningful story, the subject states that he or she does not have specific feelings that one would expect, although the subject recognizes that he or she should feel something."
+            },
+            {
+                "item_number": 31,
+                "text": "In talking about a meaningful, emotionally charged experience, the subject talks in a detached way, as if he or she is not in touch with the feelings that should surround it."
+            },
+            {
+                "item_number": 39,
+                "text": "The subject clearly describes the details of either positive or distressing or traumatic experiences but fails to show any attendant emotion in tone of voice, facial expression, or bodily expression."
+            },
+            {
+                "item_number": 107,
+                "text": "The subject talks as if emotionally detached from whatever he says about himself or his experiences."
+            },
+            {
+                "item_number": 140,
+                "text": "The subject describes events with good detail, but without mention of any attendant feelings, like a reporter describing the narrative of someone’s life, but devoid of personal reactions."
+            }
+        ]
+    },
+    {
+        "defense_level": "Obsessional Defense Level",
+        "mechanism": "Intellectualization",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by the excessive use of abstract thinking to avoid disturbing feelings.",
+        "function": "Intellectualization is a defense against affects or impulses in which the idea representing the affect or impulse is kept conscious and expressed as a generalization, thereby detaching or distancing the subject from the affect or impulse itself. The felt quality of emotions is lost, as is the urge in any impulse. The cognitive elements remain conscious, although in generalized or impersonal terms. The subject commonly refers to his or her experience in general terms or in the second or third person. One does not have to be bright or intelligent to use intellectualization. It is simply a cognitive strategy for minimizing the felt importance of problems in one’s affective life. Like other defenses, it can sometimes be seen in those with intellectual disabilities and organic brain syndromes.",
+        "items": [{
+                "item_number": 4,
+                "text": "When confronting personal issues, the subject tends to ask general questions, as if getting general information or answers from others will elucidate his or her own feelings and concerns. As a result, personal reactions are kept at a distance."
+            },
+            {
+                "item_number": 26,
+                "text": "The subject talks about his personal experiences by making general statements that appear accurate but somehow avoid revealing specific personal feelings and reactions."
+            },
+            {
+                "item_number": 53,
+                "text": "There is a lifeless quality to most of the subject’s descriptions of his feelings and reactions, because the subject tries to explain them intellectually rather than experience or express them. For example: ‘My present predicament is an inevitable product of my parents’ extreme expectations and other parental experiences when growing up.’"
+            },
+            {
+                "item_number": 57,
+                "text": "The subject distances him or herself from his or her own feelings by speaking about him or herself in the second or third person a lot, as if the subject were talking about someone else."
+            },
+            {
+                "item_number": 60,
+                "text": "Whenever focusing on personal issues or experiences the subject tends to generalize or even discuss things in a logical or scientific way, thereby keeping his feelings and experiences very distant."
+            }
+        ]
+    },
+    {
+        "defense_level": "Obsessional Defense Level",
+        "mechanism": "Undoing",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by behavior designed to symbolically make amends for negate previous thoughts, feelings, or actions.",
+        "function": "In this defense the subject expresses an affect, impulse or commits an action which elicits guilt feelings or anxiety. He or she then minimizes the distress by expressing the opposite effect, impulse, or action. The act of reparation then removes the individual from experiencing the conflict. In conversation the subject’s statements are immediately followed by qualifications bearing the opposite meaning from the original statement. To the observer this coupling of statement with contradictory statement may make it difficult to see what the subject’s primary feeling or intention really is. Misdeeds may be followed by acts of reparation to the intended object of the misdeed. The subject appears compelled to erase or undo his or her original action.",
+        "items": [{
+                "item_number": 48,
+                "text": "When another person tries to clarify a statement made by the subject, the subject says thing like ‘well, not really’ or ‘not exactly’ followed by qualifications that do not clearly clarify things. Because the subject is wary of committing him or herself to any statement, the listener may be unsure as to the subject’s definite opinion."
+            },
+            {
+                "item_number": 67,
+                "text": "The subject spontaneously describes some of his or her actions which are followed by actions that are of the opposite intent, as if every action must be balanced by an equal but opposite action. The subject is aware of the contradiction which may seem vexing or ironic."
+            },
+            {
+                "item_number": 70,
+                "text": "The subject prefaces a strong statement about a topic with a disclaimer, to the effect that what he or she is about to say may not be true."
+            },
+            {
+                "item_number": 81,
+                "text": "The subject conveys opinions about something or someone with a series of opposite or contradictory statements, as if uncomfortable with taking a clear stand one way or the other."
+            },
+            {
+                "item_number": 83,
+                "text": "After the subject has done something that probably results in a feeling of guilt or shame, the subject makes an act of reparation, as if sorry. However, the subject focuses on the act but avoids dealing with the sense of guilt or shame as one would whenever making a normal apology."
+            }
+        ]
+    },
+    {
+        "defense_level": "Neurotic Defense Level",
+        "mechanism": "Repression",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by being unable to remember or be cognitively aware of disturbing wishes, feelings, thoughts or experiences.",
+        "function": "Repression is a defense that protects the subject from being aware of what he is experiencing or has experienced in the past. The subject may experience a particular affect, impulse, or desire, but the actual awareness of what it is, that is, the idea associated with it, remains out of awareness. While the emotional elements are clearly present and experienced, the cognitive elements remain outside of consciousness.",
+        "items": [{
+                "item_number": 13,
+                "text": "The subject keeps unpleasant things vague: he or she has trouble remembering or can’t recall specific examples, when at least some should be forthcoming. This may include loss of memory for whole periods of time (e.g., childhood)."
+            },
+            {
+                "item_number": 47,
+                "text": "At points when a topic is emotionally loaded, the subject forgets what he or she is talking about and seems to get lost while talking."
+            },
+            {
+                "item_number": 50,
+                "text": "When discussing a topic that brings up negative, conflicting feelings, the subject prefers to keep things vague, reflected in very vague, general or inexact statements."
+            },
+            {
+                "item_number": 108,
+                "text": "The subject cannot remember certain facts which would normally not be forgotten, such as a distressing incident, reflecting some uneasy feelings about the topic."
+            },
+            {
+                "item_number": 136,
+                "text": "When certain feelings or wishes would arise, the subject gives some evidence of them – such as crying or appearing anxious but cannot clearly identify in words the specific feeling or the specific ideas that give the wish a clear meaning."
+            }
+        ]
+    },
+    {
+        "defense_level": "Neurotic Defense Level",
+        "mechanism": "Dissociation",
+        "definition": "The individual deal with emotional conflicts, or internal or external stressors, by a temporary alteration in the integrative functions of consciousness or identity. In the defense of dissociation, a particular affect or impulse which the subject is not aware of operates in the subject’s life out of normal awareness. Both the idea and associated affect or impulse remain out of awareness but are expressed by an alteration in consciousness. While the subject may be dimly aware that something unusual takes place at such times, full acknowledgment that his or her own affect or impulses are being expressed is not made. Dissociation may result in a loss of function or in uncharacteristic behavior.",
+        "function": "Dissociated material is commonly experienced as too threatening, too conflict-laden, or too anxiety-provoking to be allowed into awareness and fully acknowledged by the subject. Examples of common threatening material include recollection of a trauma with attendant fear of death and feelings of powerlessness, or a sudden impulse to kill an intimate associate. Dissociation allows expression of the affect or impulse by altering consciousness which allows the individual to feel less guilty or threatened.",
+        "items": [{
+                "item_number": 8,
+                "text": "The subject behaves or says something in a very uncharacteristic way that expresses an uninhibited impulse operating out of the subject’s usual control, yet the subject is surprised by it (e.g., “I threw a glass of water in my friend’s face, but I don’t know what made me do it’)."
+            },
+            {
+                "item_number": 27,
+                "text": "The individual describes fugue states, amnesia (not alcoholic blackouts), multiple personality, spontaneous trance states, or temporary loss of sensory or motor function."
+            },
+            {
+                "item_number": 30,
+                "text": "In response to an emotionally charged situation, the subject suddenly becomes confused, depersonalized, “spaced out,” or can’t think or talk about the topic. Consciousness becomes clouded to a lesser or greater extent."
+            },
+            {
+                "item_number": 41,
+                "text": "In response to a distressing topic or situation, the subject develops a symptom, such as headache, stomach pain, or loss of an ability to do something, which temporarily eclipses awareness of what was distressing. The symptom may have a symbolic relationship to the type of distress."
+            },
+            {
+                "item_number": 73,
+                "text": "The subject associates with or is fascinated by people who do very uninhibited, dramatic, or socially outrageous things, which appear to express some of the subject’s own inhibited wishes. Nonetheless, the subject is unaware of any such connection."
+            }
+        ]
+    },
+    {
+        "defense_level": "Neurotic Defense Level",
+        "mechanism": "Reaction Formation",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by substituting behavior, thoughts, or feelings that are diametrically opposed to his or her unacceptable thoughts or feelings.",
+        "function": "In reaction formation an original impulse or affect is deemed unacceptable by the subject and an unconscious substitution is made. Feelings, impulses, and behaviors of opposite emotional tone are substituted for the original ones. The observer does not see the alteration, *per se*, but only the end product. By supplanting the original unacceptable feelings by its opposite, the subject avoids feelings of guilt. In addition, the substitution may gratify a wish to feel morally superior. Reaction formation is reasonably inferred when a subject reacts to an event with an emotion opposite in tone to the usual feelings evoked in people.",
+        "items": [{
+                "item_number": 52,
+                "text": "When confronting a personal wish about which the subject may feel guilty, the subject does not acknowledge or express it, but substitutes an opposite attitude against the wish, for instance, a desire is supplanted by renunciation or anger at anything to do with the desire."
+            },
+            {
+                "item_number": 55,
+                "text": "The subject is very compliant, agreeing to most everything the interviewer points out, when some disagreement and discussion would be expected."
+            },
+            {
+                "item_number": 74,
+                "text": "In dealing with people who are angry or abusive, the subject is cooperative and nice and eager to please, failing to express any negative feelings which might be expected."
+            },
+            {
+                "item_number": 96,
+                "text": "In relationships, the subject has an attitude of giving much more than he or she receives but is unaware of the imbalance."
+            },
+            {
+                "item_number": 99,
+                "text": "In fearful situations, the subject does not show expected fear, but reacts with exaggerated enthusiasm or courage, failing to acknowledge the fear."
+            }
+        ]
+    },
+    {
+        "defense_level": "Neurotic Defense Level",
+        "mechanism": "Displacement",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by generalizing or redirecting a feeling about or a response to an object onto another, usually less threatening, object. The person using displacement may or may not be aware that the affect or impulse expressed toward the displaced object was really meant for someone else.",
+        "function": "Displacement allows the expression of an affect, impulse, or action toward a person or other object with some similarity to the actual object which initially aroused the affect or impulse. The affect or impulse is fully expressed and acknowledged but is misdirected to a less conflictual target. Displacement allows more expression and gratification, albeit toward the wrong targets, than other neurotic level defenses.",
+        "items": [{
+                "item_number": 1,
+                "text": "In dealing with an important problem that makes the anxious, the subject prefers to focus on minor or unrelated matters instead, which distracts the subject away from the central problem, for example, cleaning or organizing rather than working on projects that need to be done."
+            },
+            {
+                "item_number": 64,
+                "text": "The subject directs strong feelings toward a person or object who has little to do with the subject but who may bear similarities to someone significant to the subject. The subject may be somewhat puzzled by the ‘reason’ for the strength of these feelings."
+            },
+            {
+                "item_number": 69,
+                "text": "When confronting emotionally charged topics, the subject tends not to address concerns directly and fully but wanders off to tangentially related topics that are emotionally easier for the subject to discuss or prefers to pay attention to someone else dealing with a similar situation. This can include preferring to read or watch a film portraying people dealing with similar problems."
+            },
+            {
+                "item_number": 122,
+                "text": "When discussing an affect-laden event, the subject expresses more feelings directed toward incidental details or issues than about the major point or effect of the event, perhaps appearing “picky.”"
+            },
+            {
+                "item_number": 125,
+                "text": "The subject gets irritated easily by minor things that bother him or her and tends to lose a focus on the main things that need attention."
+            }
+        ]
+    },
+    {
+        "defense_level": "Minor Image-Distorting Defense Level",
+        "mechanism": "Devaluation of self-image",
+        "definition": "The individual deals with emotional conflicts or internal or external stressors by attributing exaggeratedly negative qualities to oneself or others.",
+        "function": "Devaluation refers to the use of derogatory, sarcastic, or other negative statements about oneself or others to boost self-esteem. Devaluation may fend off awareness of wishes or the disappointment when wishes go unfulfilled. The negative comments about others usually cover up a certain sense of vulnerability, shame or worthlessness which the subject experiences vis a vis expressing his own wishes and meeting his own needs.",
+        "items": [{
+                "item_number": 12,
+                "text": "The subject says demeaning things about him – whether somewhat funny or not – such as “I am so-ooooo stupid.”"
+            },
+            {
+                "item_number": 29,
+                "text": "The subject makes a lot of unwarranted negative, sarcastic, or biting statements about the self, but the individual can acknowledge some of their positive aspects, if these are pointed out."
+            },
+            {
+                "item_number": 34,
+                "text": "When experiencing failure, disappointment, shame or loss of self-esteem, the subject dismisses the issue by saying something negative about him or herself, then dismisses the problem by moving to another topic and avoids focusing on the feelings."
+            },
+            {
+                "item_number": 56,
+                "text": "The subject is preoccupied with real or exaggerated faults in him or herself, although he or she can acknowledge some realistic positive aspects, if these are pointed out."
+            },
+            {
+                "item_number": 147,
+                "text": "When confronted by a personal disappointment the subject makes negative comments about him or herself but then avoids further discussion of the disappointment in any detail."
+            }
+        ]
+    },
+    {
+        "defense_level": "Minor Image-Distorting Defense Level",
+        "mechanism": "Devaluation of other’s image",
+        "definition": "The individual deals with emotional conflicts or internal or external stressors by attributing exaggeratedly negative qualities to oneself or others.",
+        "function": "Devaluation refers to the use of derogatory, sarcastic, or other negative statements about oneself or others to boost self-esteem. Devaluation may fend off awareness of wishes or the disappointment when wishes go unfulfilled. The negative comments about others usually cover up a certain sense of vulnerability, shame or worthlessness which the subject experiences vis a vis expressing his own wishes and meeting his own needs.",
+        "items": [{
+                "item_number": 54,
+                "text": "When a topic brings with it feelings of disappointment, shame or loss of self-esteem, the subject dismisses the issue by finding some fault or criticism elsewhere or by uttering obscene comments about it."
+            },
+            {
+                "item_number": 82,
+                "text": "The subject devalues others’ accomplishments or motives, to minimize their significance, but he or she quickly dismisses such topics rather than dwell on them."
+            },
+            {
+                "item_number": 85,
+                "text": "When asked to discuss something about him or herself, the subject diverts the focus to saying negative things about others, as if devaluing others will raise his or her own self-esteem."
+            },
+            {
+                "item_number": 111,
+                "text": "The subject has negative things to say about a lot of individuals or objects, although he or she can acknowledge some of their positive aspects, if these are pointed out."
+            },
+            {
+                "item_number": 143,
+                "text": "The subject makes sarcastic or biting statements about others to minimize their positive qualities and dismiss any competition or threat they may pose."
+            }
+        ]
+    },
+    {
+        "defense_level": "Minor Image-Distorting Defense Level",
+        "mechanism": "Idealization",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by attributing exaggerated positive qualities to self or others.",
+        "function": "In the defense of idealization, the subject describes real or alleged relationships to others (including institutions, belief systems, etc.) who are powerful, revered, important, etc. This usually serves as a source of gratification as well as protection from feelings of powerlessness, unimportance, worthlessness, and the like. The defense accomplishes a sort of alchemy of worthiness by association. The subject believes certain others to be good and powerful in an exaggerated way and while able to acknowledge factual aspects of any faults or shortcomings in the idealized person, they dismiss their significance, thereby preserving a sterling image of the person, or object.",
+        "items": []
+    },
+    {
+        "defense_level": "Minor Image-Distorting Defense Level",
+        "mechanism": "Idealization of other’s image",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by attributing exaggerated positive qualities to self or others.",
+        "function": "In the defense of idealization, the subject describes real or alleged relationships to others (including institutions, belief systems, etc.) who are powerful, revered, important, etc. This usually serves as a source of gratification as well as protection from feelings of powerlessness, unimportance, worthlessness, and the like. The defense accomplishes a sort of alchemy of worthiness by association. The subject believes certain others to be good and powerful in an exaggerated way and while able to acknowledge factual aspects of any faults or shortcomings in the idealized person, they dismiss their significance, thereby preserving a sterling image of the person, or object.",
+        "items": [{
+                "item_number": 16,
+                "text": "The subject makes many references to how important certain people or objects are with an emphasis on their image, rather than real abilities or accomplishments which might make the person or object important to others."
+            },
+            {
+                "item_number": 17,
+                "text": "The subject tells stories in which he or she says glowing positive things about another person or object, without giving much detail to back it up."
+            },
+            {
+                "item_number": 95,
+                "text": "When confronted with problems, the subject prefers to dwell on the positive qualities of others on whom he or she relies, such as being lovable, smart, beautiful, creative, “the best,” as if those qualities will take care of the problems."
+            },
+            {
+                "item_number": 138,
+                "text": "The subject takes pleasure in referring a lot to positive but superficial attributes of others, like being beautiful, lovable, smart, well-dressed, worthy, a center of attention. This may be true even if the subject longs for qualities that are only imagined, wished for, or in the past."
+            },
+            {
+                "item_number": 139,
+                "text": "When confronted with any negative aspects of others important to the subject, the subject appears to downplay or ignore them, by substituting talk about the positive image or attributes instead."
+            }
+        ]
+    },
+    {
+        "defense_level": "Minor Image-Distorting Defense Level",
+        "mechanism": "Idealization of self-image",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by attributing exaggerated positive qualities to self or others.",
+        "function": "In the defense of idealization, the subject describes real or alleged relationships to others (including institutions, belief systems, etc.) who are powerful, revered, important, etc. This usually serves as a source of gratification as well as protection from feelings of powerlessness, unimportance, worthlessness, and the like. The defense accomplishes a sort of alchemy of worthiness by association. The subject believes certain others to be good and powerful in an exaggerated way and while able to acknowledge factual aspects of any faults or shortcomings in the idealized person, they dismiss their significance, thereby preserving a sterling image of the person, or object.",
+        "items": [{
+                "item_number": 38,
+                "text": "When confronted with any negative aspects of him or herself, the subject appears to downplay or ignore them by substituting talk about positive self-attributes instead."
+            },
+            {
+                "item_number": 71,
+                "text": "The subject makes many references to how important he or she is with an emphasis on self-image, rather than real accomplishments which might make the person important to others."
+            },
+            {
+                "item_number": 87,
+                "text": "The subject tells stories in which others are saying positive things about him or herself."
+            },
+            {
+                "item_number": 133,
+                "text": "The subject takes pleasure in referring a lot to his or her own positive but superficial attributes, like being beautiful, lovable, smart, well-dressed, worthy, a center of attention. This may be true even if the subject longs for qualities that are only imagined, wished for, or in the past."
+            },
+            {
+                "item_number": 135,
+                "text": "When confronted with problems, the subject prefers to dwell on his or her own positive qualities, such as being lovable, smart, beautiful, creative, “the best,” as if those qualities will take care of the problems."
+            }
+        ]
+    },
+    {
+        "defense_level": "Minor Image-Distorting Defense Level",
+        "mechanism": "Omnipotence",
+        "definition": "Omnipotence is a defense in which the subject responds to emotional conflict or internal and external stressors by acting superior to others, as if one possessed special powers or abilities.",
+        "function": "This defense commonly protects the subject from a loss of self-esteem that is a consequence whenever stressors trigger feelings of disappointment, powerlessness, worthlessness, and the like. Omnipotence subjectively minimizes the latter experiences, although they may remain objectively obvious to others. Self-esteem is artificially propped up at the expense of positively distorting one’s self-evaluation in response to real experiences which bring up contrary feelings.",
+        "items": [{
+                "item_number": 7,
+                "text": "The subject talks about how capable he or she is of influencing events or famous and important people. However, the emphasis is on the sense of personal power or abilities, rather than the detailed stories that support the claims as real."
+            },
+            {
+                "item_number": 10,
+                "text": "The subject acts in a very self-assured way and asserts an ‘I can handle anything’ attitude, in the face of problems that he or she in fact cannot fully control."
+            },
+            {
+                "item_number": 68,
+                "text": "The subject makes clearly false statements about his own special powers and abilities (these may or may not be delusional)."
+            },
+            {
+                "item_number": 126,
+                "text": "There is excessive bravado in discussing problems or personal accomplishments that stands out as excessive or unrealistic."
+            },
+            {
+                "item_number": 129,
+                "text": "The subject is very grandiose in describing personal plans, accomplishments or abilities, perhaps comparing him or herself to famous people."
+            }
+        ]
+    },
+    {
+        "defense_level": "Disavowal Defense Level",
+        "mechanism": "Denial",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by refusing to acknowledge some aspect of external reality or of his or her experience that would be apparent to others. The subject actively denies that a feeling, behavioral response, or intention (regarding the past or present) was or is not present, even though its presence is considered more than likely by the observer. The subject is blinded to both the ideational and emotional content of what is denied. This excludes ‘psychotic denial” in which the subject refuses to acknowledge a physical object or event within the subject’s field in the present time.",
+        "function": "Neurotic denial serves to prevent the subject who uses it and anyone querying him from recognizing specific feelings, wishes, intentions, or actions for which the subject might be responsible. The denial avoids admitting or becoming aware of a psychic fact (idea and feeling) which the subject believes would bring him aversive consequences (such as shame, grief, or other painful affect). The evidence for this is clear whenever a subject breaks through his own denial and experiences shame or other emotion at what he learns about himself, often apologizing to the interviewer and so forth.",
+        "items": [{
+                "item_number": 20,
+                "text": "When confronted with topics that might be personally meaningful, the subject denies they are important and refuses to talk about them further."
+            },
+            {
+                "item_number": 33,
+                "text": "Contrary to the evidence from the interview, the subject claims to have done something that in all likelihood he or she did not do, and may become irritated if confronted with any discrepancy."
+            },
+            {
+                "item_number": 121,
+                "text": "Whenever talking about potentially distressing events or experiences, the subject strongly claims not to have any feelings about the topic, although this seems highly unlikely."
+            },
+            {
+                "item_number": 124,
+                "text": "Whenever asked about things the subject did or felt, the subject denies any involvement, does not want to talk about them or avoids explaining his or her reluctance."
+            },
+            {
+                "item_number": 137,
+                "text": "The subject is hard to talk with, responding to many questions with answers like “no” or “not really” and does not elaborate, rather than giving some fuller answers which one would normally expect."
+            }
+        ]
+    },
+    {
+        "defense_level": "Disavowal Defense Level",
+        "mechanism": "Rationalization",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by devising reassuring or selfserving but incorrect explanations for his or her own or others’ behavior.",
+        "function": "Rationalization involves the substitution of a plausible reason for a given action or impulse on the subject’s part, when a motive that is more self-serving or difficult to acknowledge is evident to the outsider. While the underlying covert motivation may be selfish, it may also involve caring or loving feelings which the subject finds uncomfortable. The subject is usually thought to be unaware or minimally aware of his true underlying motive; instead, he or she sees only the substituted, more socially acceptable reason for the action. The subject’s reasons commonly have nothing to do with any personal satisfaction, and thus disguise his or her real impulse or motive, although any related affect may still show.",
+        "items": [{
+                "item_number": 19,
+                "text": "To avoid taking responsibility for one’s actions or misdeeds, the subject makes excuses or points out others’ contributions to the problem, thereby minimizing his or her own role."
+            },
+            {
+                "item_number": 42,
+                "text": "The subject avoids feelings of guilt or shame by justifying his actions or by referring to external reasons that impelled him to act."
+            },
+            {
+                "item_number": 59,
+                "text": "When discussing a problem that the subject contributed to, the subject explains his or her own actions far more than necessary, as if explaining away his or her own fault."
+            },
+            {
+                "item_number": 86,
+                "text": "Whenever confronted about his or her own feelings or intentions, the subject avoids acknowledging them by giving a plausible explanation that covers up the real subjective reasons."
+            },
+            {
+                "item_number": 120,
+                "text": "Whenever discussing something uncomfortable about him or herself, the subject tries to convince someone else of a more positive explanation, as if lying to him or herself about the truth."
+            }
+        ]
+    },
+    {
+        "defense_level": "Disavowal Defense Level",
+        "mechanism": "Projection",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by falsely attributing his or her own unacknowledged feelings, impulses, or thought to others. The subject disavows his or her own feelings, intentions, or experience by means of attributing them to others, usually by whom the subject feels threatened and to whom the subject feels some affinity.",
+        "function": "Non-delusional projection allows the subject to deal with emotions and motives which make him feel too vulnerable (especially to shame or humiliation) to admit having himself. Instead he concerns himself with these same emotions and motives in others. The use of projection therefore commits the subject to a continual concern with those on whom he has projected his inner feelings as a way to minimize awareness of them himself.",
+        "items": [{
+                "item_number": 112,
+                "text": "When others comment or inquire about the subject’s own feelings, actions, or intentions, the subject is very elusive or frankly denies the material, but the subject subsequently talks about similar feelings, actions, intentions, etc., in others."
+            },
+            {
+                "item_number": 115,
+                "text": "When experiencing or confronted with a problem, the subject shames, humiliates, or blames someone else for the problem, ignoring his or her own role."
+            },
+            {
+                "item_number": 123,
+                "text": "An attitude of suspiciousness or prejudice toward a group of other individuals, allows the subject not to express an interest in the same motives or feelings but remain blind to them in him or herself."
+            },
+            {
+                "item_number": 134,
+                "text": "When others ask the subject questions, the subject is suspicious about others’ real reasons or motives for the question."
+            },
+            {
+                "item_number": 141,
+                "text": "The subject perceives others as untrustworthy, unfaithful, or manipulative when there is no objective basis for these concerns. This may even appear paranoid."
+            }
+        ]
+    },
+    {
+        "defense_level": "Disavowal Defense Level",
+        "mechanism": "Autistic Fantasy",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by excessive daydreaming as a substitute for human relationships, more direct and effective action, or problem solving. Fantasy denotes the use of daydreaming as either a substitute for dealing with or solving external problems or as a way of expressing and satisfying one’s feelings and desires. While the subject may be aware of the ‘I’m just pretending’ quality of\n\nthe fantasy, nonetheless, it may be the closest that he or she ever comes to expressing or gratifying the need for satisfying interpersonal relationships.",
+        "function": "Fantasy allows the subject to obtain some temporary, vicarious gratification by daydreaming a solution to a real-world problem of conflict. The subject feels good while using fantasy and momentarily bypasses the conviction of powerlessness. In fact, during fantasy the opposite conviction (i.e., grandiosity) may be in operation, that one can do anything. Fantasy is maladaptive only when it short-circuits rather than rehearses attempts to deal with the real world by substituting dream world gratification. Sometimes, there may be a wholesale substitution of daydream activity in the place of real world attempts to meet needs and solve conflicts. This occurs without any loss of the ability to perceive and test external reality. The subject knows the difference between reality and fantasy life.",
+        "items": [{
+                "item_number": 2,
+                "text": "The subject has repetitive or serial daydreams to which he or she retreats in lieu of real life social relationships."
+            },
+            {
+                "item_number": 24,
+                "text": "The subject daydreams a lot, not in a way that leads to creative planning or action, but simply for its own gratification, in lieu of action."
+            },
+            {
+                "item_number": 106,
+                "text": "In dealing with some problems, the subject prefers to daydream about solutions, as a substitute for planning direct, realistic, and effective actions."
+            },
+            {
+                "item_number": 110,
+                "text": "Whenever being self-assertive would be helpful, the subject may act passively but later withdraw into fantasies of being assertive or aggressive toward others as a compensation."
+            },
+            {
+                "item_number": 148,
+                "text": "The subject gets intensely involved in fantasy roles or actions that express wishes and feelings that the subject does not express in real life. For example, living out a role in a social situation or game or which has no connection to real life ways in which the subject expresses him or herself."
+            }
+        ]
+    },
+    {
+        "defense_level": "Major Image-Distorting Defense Level",
+        "mechanism": "Splitting of self-image",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by viewing himself or herself or others as all good or all bad, failing to integrate the positive and negative qualities of the self and others into cohesive images; often the same individual will be alternately idealized and devalued. Splitting of self-images often occurs alongside splitting of others’ images, since they both were learned in response to the unpredictability of one’s early significant others. In splitting of self-images, the subject demonstrates that he has contradictory views, expectations, and feelings about himself which he cannot reconcile into one coherent whole.\n\nThe self-images are divided into polar opposites: at a given time the subject’s awareness is limited to those aspects of the self-having the same emotional feeling tone. He sees himself in “black or white” terms. At one point in time the subject believes he himself has good attributes, such as being loving, powerful, worthy, or correct, and having good feelings, or he believes the opposite: that he is bad, hateful, angry, destructive, weak, powerless, worthless, or always wrong and has only negative feelings about himself. The subject cannot experience himself as a more realistic mixture of both positive and negative attributes.\n\nIn splitting of other’s images (object images), the subject demonstrates that his views, expectations, and feelings about others are contradictory and that he cannot reconcile these differences to form realistic and coherent views of others. Object images are divided into polar opposites, such that the subject can only see one emotional aspect or side of the object at a time. Objects are experienced in black or white terms. Splitting is revealed in two major ways. The subject may initially describe an object wholly in one way but later describe that same object in opposite ways. Second, each object is simply lumped with other objects into good and bad, positive and negative camps. When the subject uses splitting of object images, he cannot integrate anything that doesn’t match his immediate experience of and feeling about a given object. All the attributes with the same feeling tone are highlighted, and contradictory views, expectations, or feelings about the object arc excluded from emotional awareness, although not necessarily from cognitive awareness.",
+        "function": "Splitting of object images and self-images is the subject’s defense against the anxiety of ruining the good images of people by allowing bad aspects of them to intrude upon the good. Splitting of self-images has one adaptive function: it minimizes the anxiety the subject would experience attempting to match his view of himself with how significant others will in fact see him and treat him. Instead, when seeing himself one way, the subject continues to see himself in the same valence no matter how others see him and treat him; contradictions then aren’t allowed into experience. This minimizes the disruptive, anxietyprovoking effects of trying to predict unpredictable people. The disadvantage is that the subject’s view of himself then becomes inflexible to the environmental realities, and the switch from good to bad views of himself is also unpredictable. This leaves the subject insensitive to more reasonable, predictable, and potentially more rewarding relationships outside of his original learning environment. In a better environment, the subject suffers from what was paradoxically so protective originally: an insensitivity to experiencing contradictory views of the self. Splitting of object images and self-images is the subject’s defense against the anxiety of ruining the good images of people by allowing bad aspects of them to intrude upon the good. Splitting of object images limits the anxiety the subject would feel in trying to discriminate how others will respond when he experiences or expresses his needs, feelings, etc. To see others as all good or all bad eliminates the anxiety-provoking task of trying to discern how others will behave toward the self, a task the subject believes to be impossible. Instead, the subject quickly categorizes people into good and bad camps based on subtle initial cues (e.g., ‘he frowned when I spoke, so he hates me”) or based largely on internal feeling states (e.g., “I feel so bad that I know you must hate me, so why should I open up to you?”). The defense is maladaptive, however, because the subject acts as unpredictably and irrationally toward others as he himself was treated; he forgoes the rewards he might attain if he were flexible in how he interacts with others. Using this defense, the subject wins some friends and makes some enemies, but not in a realistic way that considers the aggregate of others’ actual characteristics.",
+        "items": [{
+                "item_number": 3,
+                "text": "The subject has periods of saying highly positive things about him or herself, and other periods saying highly negative things about him or herself, without appearing to notice the contradiction and without addressing it, other than to feel confused about him or herself at moments."
+            },
+            {
+                "item_number": 6,
+                "text": "The subject speaks of him or herself in a wholly negative way at times, as if there is nothing positive or redeeming about him or herself."
+            },
+            {
+                "item_number": 98,
+                "text": "The subject expresses a series of highly unrealistic positive attributes about him or herself whereas at another point the subject sees only negatives in him or herself. The subject dismisses attempts to see things in a balanced more realistic way."
+            },
+            {
+                "item_number": 142,
+                "text": "The subject tends to highlight objects with an emotional meaning that matches his or her own emotional tone at the moment. Any feeling that doesn’t match this is ignored or denied."
+            },
+            {
+                "item_number": 145,
+                "text": "Whenever saying something negative about him or herself, the subject rejects others’ attempts to explore positive or more balanced views, and paradoxically becomes even more confirmed in his or her own worthlessness."
+            }
+        ]
+    },
+    {
+        "defense_level": "Major Image-Distorting Defense Level",
+        "mechanism": "Splitting of other’s image",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by viewing himself or herself or others as all good or all bad, failing to integrate the positive and negative qualities of the self and others into cohesive images; often the same individual will be alternately idealized and devalued. Splitting of self-images often occurs alongside splitting of others’ images, since they both were learned in response to the unpredictability of one’s early significant others. In splitting of self-images, the subject demonstrates that he has contradictory views, expectations, and feelings about himself which he cannot reconcile into one coherent whole.\n\nThe self-images are divided into polar opposites: at a given time the subject’s awareness is limited to those aspects of the self-having the same emotional feeling tone. He sees himself in “black or white” terms. At one point in time the subject believes he himself has good attributes, such as being loving, powerful, worthy, or correct, and having good feelings, or he believes the opposite: that he is bad, hateful, angry, destructive, weak, powerless, worthless, or always wrong and has only negative feelings about himself. The subject cannot experience himself as a more realistic mixture of both positive and negative attributes.\n\nIn splitting of other’s images (object images), the subject demonstrates that his views, expectations, and feelings about others are contradictory and that he cannot reconcile these differences to form realistic and coherent views of others. Object images are divided into polar opposites, such that the subject can only see one emotional aspect or side of the object at a time. Objects are experienced in black or white terms. Splitting is revealed in two major ways. The subject may initially describe an object wholly in one way but later describe that same object in opposite ways. Second, each object is simply lumped with other objects into good and bad, positive and negative camps. When the subject uses splitting of object images, he cannot integrate anything that doesn’t match his immediate experience of and feeling about a given object. All the attributes with the same feeling tone are highlighted, and contradictory views, expectations, or feelings about the object arc excluded from emotional awareness, although not necessarily from cognitive awareness.",
+        "function": "Splitting of object images and self-images is the subject’s defense against the anxiety of ruining the good images of people by allowing bad aspects of them to intrude upon the good. Splitting of self-images has one adaptive function: it minimizes the anxiety the subject would experience attempting to match his view of himself with how significant others will in fact see him and treat him. Instead, when seeing himself one way, the subject continues to see himself in the same valence no matter how others see him and treat him; contradictions then aren’t allowed into experience. This minimizes the disruptive, anxietyprovoking effects of trying to predict unpredictable people. The disadvantage is that the subject’s view of himself then becomes inflexible to the environmental realities, and the switch from good to bad views of himself is also unpredictable. This leaves the subject insensitive to more reasonable, predictable, and potentially more rewarding relationships outside of his original learning environment. In a better environment, the subject suffers from what was paradoxically so protective originally: an insensitivity to experiencing contradictory views of the self. Splitting of object images and self-images is the subject’s defense against the anxiety of ruining the good images of people by allowing bad aspects of them to intrude upon the good. Splitting of object images limits the anxiety the subject would feel in trying to discriminate how others will respond when he experiences or expresses his needs, feelings, etc. To see others as all good or all bad eliminates the anxiety-provoking task of trying to discern how others will behave toward the self, a task the subject believes to be impossible. Instead, the subject quickly categorizes people into good and bad camps based on subtle initial cues (e.g., ‘he frowned when I spoke, so he hates me”) or based largely on internal feeling states (e.g., “I feel so bad that I know you must hate me, so why should I open up to you?”). The defense is maladaptive, however, because the subject acts as unpredictably and irrationally toward others as he himself was treated; he forgoes the rewards he might attain if he were flexible in how he interacts with others. Using this defense, the subject wins some friends and makes some enemies, but not in a realistic way that considers the aggregate of others’ actual characteristics.",
+        "items": [{
+                "item_number": 35,
+                "text": "The subject experiences other people and objects in “black or white” terms, failing to form more realistic views that balance positive and negative aspects of them."
+            },
+            {
+                "item_number": 61,
+                "text": "The subject attributes unrealistic positive characteristics to an object, such as being all-powerful, omni-benevolent, a savior. Because of the unrealistic belief that the positive object will take care of one’s problems, the subject ignores the need to take care of some of his or her own needs."
+            },
+            {
+                "item_number": 92,
+                "text": "The subject attributes unrealistic negative characteristics to an object, such as being all-powerful, malevolent, threatening. As a result, he or she makes some effort to protect him or herself from its influence, even though this response appears unwarranted or exaggerated."
+            },
+            {
+                "item_number": 94,
+                "text": "The subject fails to recognize that someone may be untrustworthy, hurtful, or manipulative and does not draw obvious conclusions based on their behavior. This generally results in using very poor judgment about how others will treat the subject."
+            },
+            {
+                "item_number": 114,
+                "text": "The subject expresses hatred toward someone or something and refuses to acknowledge anything that does not confirm the hatred."
+            }
+        ]
+    },
+    {
+        "defense_level": "Major Image-Distorting Defense Level",
+        "mechanism": "Projective Identification",
+        "definition": "In projective identification the subject has an affect or impulse which he finds unacceptable and projects onto someone else, as if it was really that other person who originated the affect or impulse. However, the subject does not disavow what is projected – unlike in simple projection – but remains fully aware of the affects or impulses, and simply misattributes them as justifiable reactions to the other person! Hence, the subject eventually admits his affect or impulse, but believes it to be a reaction to those same feelings and impulses in others. The subject confuses the fact that it was he himself who originated the projected material. This defense is seen most clearly in a lengthy interchange in which the subject initially projects his feelings but later experiences his original feelings as reactions to the other. Paradoxically, the subject often arouses the very feelings in others he at first mistakenly believed to be there. It is then difficult to clarify who did what to whom first. This process is more extensive than simple projection, which involves the denial and subsequent external attribution of an impulse. Projective identification involves attribution of an image so that the whole object is seen and reacted to in a distorted light.",
+        "function": "Projective identification is the defense of the traumatized person who felt irrationally responsible for his or her traumas. The defense is called into play when interpersonal cues stimulate memories of traumatic situations or interchanges or their residues. The individual experiences the other person as doing something to him or herself that is threatening, which make him or her feel powerless. The subject reacts to this imagined (or partially real) threat by attacking and believing that his or her own actions are justified, despite provoking the other. Guilt over having aggressive wishes toward the other person emerges and is handled by identification with the other, reinforced ‘by the belief that the alleged threat attack on oneself is deserved. Paradoxically the subject often induces the very feeling of powerlessness and guilt in others that he or she feels, which may result in others backing away.",
+        "items": [{
+                "item_number": 72,
+                "text": "Sometimes the subject gets angry or fearful toward someone for no apparent reason, but then accuses the other person of intending to make him or her feel that way."
+            },
+            {
+                "item_number": 75,
+                "text": "At times the subject’s feelings merge with those of another person and the subject assumes the other’s feelings and needs are exactly the same as the subject’s own. He or she then tends to “put words in the other’s mouth.”"
+            },
+            {
+                "item_number": 101,
+                "text": "In conversations, the subject sometimes seems confused about distinguishing his or her own feelings from those of the other person."
+            },
+            {
+                "item_number": 103,
+                "text": "When the subject gets upset at someone, he or she gets very angry and loses control, but then blames the other person for making him or her lose control. Nonetheless, the subject may feel some guilt for losing control."
+            },
+            {
+                "item_number": 113,
+                "text": "The subject feels provoked by someone when no obvious provocation is apparent. As the subject becomes angry, accusatory or verbally abusive, the subject provokes the same negative feelings in the other which the subject mistakenly believed the other person had at the outset."
+            }
+        ]
+    },
+    {
+        "defense_level": "Action Defense Level",
+        "mechanism": "Passive Aggression",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by indirectly and unassertively expressing aggression toward others. There is a facade of overt compliance masking covert resistance toward others. Passive aggression is characterized by venting hostile or resentful feelings in an indirect, veiled, and unassertive manner toward others. Passive aggression often occurs in response to demands for independent action or performance by the subject or when someone has disappointed the subject’s wish or sense of entitlement to be taken care of, regardless of whether the subject has made this wish known. This term includes ‘turning against the self.’",
+        "function": "The person using passive-aggression has learned to expect punishment, frustration, or dismissal if he or she expresses needs or feelings directly to someone who has power or authority over him or her. The subject feels powerless and resentful. This expectation is most pronounced in hierarchical power relationships. Resentment is expressed by a passive stance: that the subject is entitled to the very things he doesn’t speak up for or that he is entitled to special dispensation. There is also some pleasure taken in the discomfort that the passive aggressive behavior causes others. Passive expression of anger through stubborn, inept, procrastinating, and forgetful behavior is quickly learned as a way to express: the conviction that the subject has the right to remain passive while expecting his needs to be met; to appear well-intentioned on the surface (overtly compliant), thus avoiding retaliation for the direct expression of affects, needs, or resentment; to express the resentment experienced toward those making demands by covert noncompliance that annoys others and obtain some satisfaction or vengeance, even if it means hurting oneself. In extremes, the resentment is not just expressed indirectly toward the other, but in fact, is turned 180 degrees around toward the self (turning against the self) to get at the other.",
+        "items": [{
+                "item_number": 45,
+                "text": "At times when expressing an opinion or wish might be helpful, the subject fails to express himself adequately, instead finding indirect, even annoying ways to show his or her opposition to the influence of others, for example, being silent."
+            },
+            {
+                "item_number": 88,
+                "text": "The subject fails to stand up for his or her interests and seems to let bad things happen to him or herself that could be prevented, maybe even assuming a “martyr” role."
+            },
+            {
+                "item_number": 89,
+                "text": "While outwardly cooperative or compliant, the individual procrastinates and refuses to do things on time or as asked, even when it would be easy to do so."
+            },
+            {
+                "item_number": 102,
+                "text": "When angry toward someone significant, the subject takes anger out on himself instead of expressing it directly."
+            },
+            {
+                "item_number": 116,
+                "text": "The subject has “a chip on his or her shoulder” or a grudge, and seems to find reasons to feel unfairly treated, even when he or she is not."
+            }
+        ]
+    },
+    {
+        "defense_level": "Action Defense Level",
+        "mechanism": "Help-Rejecting Complaining",
+        "definition": "Help-rejecting complaining (formerly called hypochondriasis, which term we do not us as it can be confused with the symptom disorder) involves the repetitious use of a complaint or series of complaint in which the subject ostensibly asks for help. However, covert feelings of hostility or resentment toward others are expressed simultaneously by the subject’s rejection of the suggestions, advice, or whatever others offer. The complaints may consist of either somatic concerns or life problems. Either type of complaint is followed by a ‘help-rejecting complainer’ response to whatever help is offered.",
+        "function": "Help-rejecting complaining is a defense against the anger the subject experiences whenever he or she feels the need for emotional reliance on others. The anger rises from the conviction, or often the experience that nobody will really satisfy the subject’s perceived needs. The subject expresses the anger as an indirect reproach by rejecting help as “not good enough” while continuing to ask for more of it. Instead of driving the other person away by the expression of anger, the use of helprejecting complaining binds the person to the subject by the overt request for help. The subject’s expression of helplessness over the problem at hand reflects a sense of powerlessness to get the right help, comfort, and attention, while discharging resentment for the expected disappointment that enough help will not be forthcoming.",
+        "items": [{
+                "item_number": 21,
+                "text": "The subject complains spontaneously about how others don’t really care, or have made his or her problems worse, even when there is clear evidence that others have tried to help."
+            },
+            {
+                "item_number": 84,
+                "text": "The subject recites a litany of issues and problems but does not appear to be engaged in solving them, but rather prefers to complain."
+            },
+            {
+                "item_number": 127,
+                "text": "The subject tends to exaggerate his or her complaints about a life problem or somatic symptom, making them seem worse or more significant than they are."
+            },
+            {
+                "item_number": 130,
+                "text": "The subject complains about life issues or problems as if each were insoluble, and systematically rejects others’ suggestions about ways of handling them."
+            },
+            {
+                "item_number": 149,
+                "text": "When the subject brings up a problem to discuss, others try to address the problem, but in response the subject skips to a different problem, thereby dismissing rather than engaging others in any suggestions offered."
+            }
+        ]
+    },
+    {
+        "defense_level": "Action Defense Level",
+        "mechanism": "Acting Out",
+        "definition": "The individual deals with emotional conflicts, or internal or external stressors, by acting without reflection or apparent regard for negative consequences. Acting out involves the expression of feelings, wishes or impulses in uncontrolled behavior with apparent disregard for personal or social consequences. It usually occurs in response to interpersonal events with significant people in the subject’s life, such as parents, authority figures, friends, or lovers. This definition is broader than the original concept of acting out transference feelings or wishes during psychotherapy. It includes behavior arising both within and outside of the transference relationship. It is not synonymous with “bad behavior,” or with any symptom *per se*, although acting out often involves socially disruptive or self-destructive behavior. So-called acting out\n\nbehaviors, such as physical fighting, or compulsive drug use, must show some relationship to affects or impulses that the person cannot tolerate to serve as evidence for the defense of acting out.",
+        "function": "Acting out allows the subject to discharge or express feelings and impulses rather than tolerate them and reflect on the painful events that stimulate them. The following elements are present. First, the subject has feelings or urges which he is inhibited from expressing. Experiencing the original impulse quickly results in a rise in tension and anxiety. Second, the individual bypasses awareness and ceases any attempt to delay, reflect upon, or plan a strategy to handle the impulse or feeling. Rather it is directly expressed in behavior without prior thought. This results in the expression of rather raw aggression, sex, attachment, or other impulses without taking the consequences into account. Following acting out, reflection may return, and the subject commonly feels guilty or expects some punishment, unless a further defense comes into play, such as denial or rationalization (“I was so angry, I had to do it. It was his fault for stirring me up.”). Acting out is maladaptive because it does not mitigate the effects of the internal conflict, and it often brings upon the subject serious, negative, external consequences.",
+        "items": [{
+                "item_number": 5,
+                "text": "The subject loses his or her temper easily."
+            },
+            {
+                "item_number": 76,
+                "text": "In response to interpersonal disappointment or disagreement the subject tends to act impulsively, without reflection or considering the negative consequences."
+            },
+            {
+                "item_number": 80,
+                "text": "The subject is often inhibited from expressing him or herself, but sometimes acts in uncontrolled ways to get or do something he or she wants, ignoring normal constraints."
+            },
+            {
+                "item_number": 118,
+                "text": "Whenever the subject feels angry, disappointed or rejected by someone, the subject resorts to uncontrolled behaviors as an escape from distressing feelings, such as binge-eating, drinking, sexual escapades, drug use, reckless driving, or getting into trouble."
+            },
+            {
+                "item_number": 144,
+                "text": "The subject tends to express feelings, wishes or impulses directly in behavior, not only words, without prior thought. However, afterward, he or she may feel guilty or expect some punishment."
+            }
+        ]
+    }
+]
