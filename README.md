@@ -139,4 +139,4 @@ Mental Health NLP, Dialogue Analysis, Large Language Models, Text Classification
 
 ## References
 
-This project is based on the PsyDefConv dataset and the Defense Mechanism Rating Scale (DMRS) framework for psychological analysis. :contentReference[oaicite:0]{index=0}
+This project is based on the PsyDefConv dataset and the Defense Mechanism Rating Scale (DMRS) framework for psychological analysis.
